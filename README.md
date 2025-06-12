@@ -1,6 +1,6 @@
 # 🧠 Agente Virtual com IA (LangChain + LangGraph + GPT-4o/LLaMA3)
 
-Um **chatbot com inteligência artificial agentic**, full-stack e pronto para produção, utilizando o que há de mais moderno no ecossistema de IA.
+Este projeto apresenta a implementação de um agente virtual full-stack, pronto para produção, utilizando as tecnologias mais avançadas do ecossistema de inteligência artificial. Por meio da integração de ferramentas modernas para orquestração de agentes, modelos de linguagem de última geração e APIs de busca em tempo real, esta solução demonstra robustez, escalabilidade e eficiência para aplicações inteligentes.
 
 Este projeto demonstra como construir um chatbot inteligente com:
 
