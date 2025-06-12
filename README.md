@@ -10,9 +10,11 @@ Este projeto demonstra como construir um chatbot inteligente com:
 * **FastAPI** como backend
 * **Streamlit** como frontend web interativo
 
-> 🔗 [Assista ao tutorial no YouTube](https://www.youtube.com/watch?v=zZwNPgM9AtI&ab_channel=sndev)
 
----
+
+![Frontend do Agente IA](frontend.png)
+
+
 
 ## 🚀 Funcionalidades
 
@@ -42,8 +44,8 @@ Este projeto demonstra como construir um chatbot inteligente com:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seuusuario/chatbot-agentic-ia.git
-cd chatbot-agentic-ia
+git clone https://github.com/alevtelles/Agente-virtual-com-IA
+cd Agente-virtual-com-IA
 ```
 
 ### 2. Instale as Dependências
