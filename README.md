@@ -1,4 +1,4 @@
-# 🧠 Chatbot Agentic com IA (LangChain + LangGraph + GPT-4o/LLaMA3)
+# 🧠 Agente Virtual com IA (LangChain + LangGraph + GPT-4o/LLaMA3)
 
 Um **chatbot com inteligência artificial agentic**, full-stack e pronto para produção, utilizando o que há de mais moderno no ecossistema de IA.
 
